@@ -1,4 +1,4 @@
-# Vite + Vue 2 + TypeScript + Vuetify
+# Dimsim's fork: Vite + Vue 2 + TypeScript + Vuetify
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/480173/157433906-7f7910d4-6430-49f4-857a-044945e71360.png" alt="logo" width="300" height="300" />
